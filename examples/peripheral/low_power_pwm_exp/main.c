@@ -40,7 +40,7 @@
 
 static low_power_pwm_t low_power_pwm_0;
 static float R;
-const int n_intervals = 100;
+const int n_intervals = 200;
 static int16_t interval = 0;
 static bool up = true;
 /**
@@ -55,40 +55,19 @@ void pwm_handler(void * p_context)
     UNUSED_PARAMETER(p_context);
 
     low_power_pwm_t * pwm_instance = (low_power_pwm_t*)p_context;
-
-    if(pwm_instance->bit_mask == BSP_LED_0_MASK)
+    if(interval <= n_intervals && interval >= 0)
     {
-
-        if (up)
-        {
-            if(interval < n_intervals)
-            {
-                new_duty_cycle = pow (2, (interval / R)) - 1;
-                err_code = low_power_pwm_duty_set(pwm_instance, new_duty_cycle);
-                APP_ERROR_CHECK(err_code);
-                interval++;
-            }
-            else
-            {
-                up = false;
-            }
-        }
-        else
-        {
-            if(interval > 0)
-            {
-                new_duty_cycle = pow (2, (interval / R)) - 1;
-                err_code = low_power_pwm_duty_set(pwm_instance, new_duty_cycle);
-                APP_ERROR_CHECK(err_code);
-                interval--;
-            }
-            else
-            {
-                up = true;
-            }
-        }
-
+        new_duty_cycle = pow (2, (interval / R)) - 1;
+        err_code = low_power_pwm_duty_set(pwm_instance, new_duty_cycle);
+        APP_ERROR_CHECK(err_code);
+        interval += (up) ? 1 : -1;
     }
+    else
+    {
+        interval += (up) ? -1 : 1;
+        up = ! up;
+    }
+
 }
 /**
  * @brief Function to initalize low_power_pwm instances.
