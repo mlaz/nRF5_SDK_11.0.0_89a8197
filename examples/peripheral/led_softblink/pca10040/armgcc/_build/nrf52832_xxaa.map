@@ -1,0 +1,2046 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o) (__call_exitprocs)
+/usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+                              /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o) (_exit)
+/usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy.o)
+                              _build/led_softblink.o (memcpy)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crti.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtbegin.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/system_nrf52.o
+ .text          0x0000000000000000        0x0 _build/system_nrf52.o
+ .data          0x0000000000000000        0x0 _build/system_nrf52.o
+ .bss           0x0000000000000000        0x0 _build/system_nrf52.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x10 _build/system_nrf52.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .text          0x0000000000000000        0x0 _build/main.o
+ .data          0x0000000000000000        0x0 _build/main.o
+ .bss           0x0000000000000000        0x0 _build/main.o
+ .debug_macro   0x0000000000000000      0x910 _build/main.o
+ .debug_macro   0x0000000000000000       0x22 _build/main.o
+ .debug_macro   0x0000000000000000       0x22 _build/main.o
+ .debug_macro   0x0000000000000000       0x87 _build/main.o
+ .debug_macro   0x0000000000000000       0x44 _build/main.o
+ .debug_macro   0x0000000000000000       0xfd _build/main.o
+ .debug_macro   0x0000000000000000       0x22 _build/main.o
+ .debug_macro   0x0000000000000000      0x1df _build/main.o
+ .debug_macro   0x0000000000000000       0x1c _build/main.o
+ .debug_macro   0x0000000000000000       0x2d _build/main.o
+ .debug_macro   0x0000000000000000       0x3b _build/main.o
+ .debug_macro   0x0000000000000000       0x50 _build/main.o
+ .debug_macro   0x0000000000000000      0xe66 _build/main.o
+ .debug_macro   0x0000000000000000      0x3a0 _build/main.o
+ .debug_macro   0x0000000000000000    0x10245 _build/main.o
+ .debug_macro   0x0000000000000000     0x12c7 _build/main.o
+ .debug_macro   0x0000000000000000       0x7c _build/main.o
+ .debug_macro   0x0000000000000000       0x1c _build/main.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error.o
+ .text          0x0000000000000000        0x0 _build/app_error.o
+ .data          0x0000000000000000        0x0 _build/app_error.o
+ .bss           0x0000000000000000        0x0 _build/app_error.o
+ .text.app_error_handler
+                0x0000000000000000       0x20 _build/app_error.o
+ .text.app_error_save_and_stop
+                0x0000000000000000       0x64 _build/app_error.o
+ .bss.m_error_data.7893
+                0x0000000000000000       0x20 _build/app_error.o
+ .debug_macro   0x0000000000000000      0x910 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x1c _build/app_error.o
+ .debug_macro   0x0000000000000000       0x2d _build/app_error.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x87 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x44 _build/app_error.o
+ .debug_macro   0x0000000000000000       0xfd _build/app_error.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_error.o
+ .debug_macro   0x0000000000000000      0x1df _build/app_error.o
+ .debug_macro   0x0000000000000000       0x50 _build/app_error.o
+ .debug_macro   0x0000000000000000      0xe66 _build/app_error.o
+ .debug_macro   0x0000000000000000      0x3a0 _build/app_error.o
+ .debug_macro   0x0000000000000000    0x10245 _build/app_error.o
+ .debug_macro   0x0000000000000000     0x12c7 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x7c _build/app_error.o
+ .debug_macro   0x0000000000000000       0x1c _build/app_error.o
+ .debug_macro   0x0000000000000000       0x4c _build/app_error.o
+ .debug_macro   0x0000000000000000       0x35 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x9c _build/app_error.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x97 _build/app_error.o
+ .debug_macro   0x0000000000000000      0x330 _build/app_error.o
+ .debug_macro   0x0000000000000000       0xf6 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x43 _build/app_error.o
+ .debug_macro   0x0000000000000000      0x187 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x3a _build/app_error.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x40 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x6c _build/app_error.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_error.o
+ .debug_macro   0x0000000000000000      0x182 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x8e _build/app_error.o
+ .debug_macro   0x0000000000000000       0x70 _build/app_error.o
+ .debug_macro   0x0000000000000000      0x11e _build/app_error.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_error.o
+ .debug_macro   0x0000000000000000       0x67 _build/app_error.o
+ .debug_macro   0x0000000000000000       0xbb _build/app_error.o
+ .debug_macro   0x0000000000000000       0x2b _build/app_error.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_error_weak.o
+ .text          0x0000000000000000        0x0 _build/app_error_weak.o
+ .data          0x0000000000000000        0x0 _build/app_error_weak.o
+ .bss           0x0000000000000000        0x0 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000      0x910 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x87 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x44 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0xfd _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000      0x1df _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x4c _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x35 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x9c _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x97 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000      0x330 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0xf6 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x43 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000      0x187 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x3a _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x40 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x6c _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000      0x182 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x1c _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x2d _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x3b _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x50 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000      0xe66 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000      0x3a0 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000    0x10245 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000     0x12c7 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x7c _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x1c _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x8e _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x70 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000      0x11e _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x67 _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0xbb _build/app_error_weak.o
+ .debug_macro   0x0000000000000000       0x2b _build/app_error_weak.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .text          0x0000000000000000        0x0 _build/app_timer.o
+ .data          0x0000000000000000        0x0 _build/app_timer.o
+ .bss           0x0000000000000000        0x0 _build/app_timer.o
+ .text.app_timer_stop
+                0x0000000000000000       0xa4 _build/app_timer.o
+ .text.app_timer_stop_all
+                0x0000000000000000       0xa0 _build/app_timer.o
+ .text.app_timer_cnt_get
+                0x0000000000000000       0x10 _build/app_timer.o
+ .text.app_timer_cnt_diff_compute
+                0x0000000000000000        0xc _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x910 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x87 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x44 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0xfd _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x1df _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x4c _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x35 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x9c _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x97 _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x330 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0xf6 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x43 _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x187 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x3a _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x40 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x6c _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x182 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x1c _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x2d _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x3b _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x50 _build/app_timer.o
+ .debug_macro   0x0000000000000000      0xe66 _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x3a0 _build/app_timer.o
+ .debug_macro   0x0000000000000000    0x10245 _build/app_timer.o
+ .debug_macro   0x0000000000000000     0x12c7 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x7c _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x1c _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x8e _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x70 _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x11e _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x67 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0xbb _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x2b _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x60 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/app_util_platform.o
+ .text          0x0000000000000000        0x0 _build/app_util_platform.o
+ .data          0x0000000000000000        0x0 _build/app_util_platform.o
+ .bss           0x0000000000000000        0x0 _build/app_util_platform.o
+ .text.app_util_disable_irq
+                0x0000000000000000       0x10 _build/app_util_platform.o
+ .text.app_util_enable_irq
+                0x0000000000000000       0x14 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000      0x910 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x87 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x44 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0xfd _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000      0x1df _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x1c _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x2d _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x3b _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x50 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000      0xe66 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000      0x3a0 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000    0x10245 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000     0x12c7 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x7c _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x4c _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x35 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x9c _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x97 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000      0x330 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0xf6 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x43 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000      0x187 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x3a _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x40 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x6c _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000      0x182 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x8e _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x70 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000      0x11e _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0xbb _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x2b _build/app_util_platform.o
+ .debug_macro   0x0000000000000000       0x60 _build/app_util_platform.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/led_softblink.o
+ .text          0x0000000000000000        0x0 _build/led_softblink.o
+ .data          0x0000000000000000        0x0 _build/led_softblink.o
+ .bss           0x0000000000000000        0x0 _build/led_softblink.o
+ .text.led_softblink_stop
+                0x0000000000000000        0xc _build/led_softblink.o
+ .text.led_softblink_off_time_set
+                0x0000000000000000        0xc _build/led_softblink.o
+ .text.led_softblink_on_time_set
+                0x0000000000000000        0xc _build/led_softblink.o
+ .text.led_softblink_uninit
+                0x0000000000000000       0x24 _build/led_softblink.o
+ .debug_macro   0x0000000000000000      0x910 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x22 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x35 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x9c _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x52 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x16 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x43 _build/led_softblink.o
+ .debug_macro   0x0000000000000000      0x187 _build/led_softblink.o
+ .debug_macro   0x0000000000000000      0x330 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x35 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x22 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0xfd _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x22 _build/led_softblink.o
+ .debug_macro   0x0000000000000000      0x1df _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x8e _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x70 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x34 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x1c _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x2d _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x3b _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x50 _build/led_softblink.o
+ .debug_macro   0x0000000000000000      0xe66 _build/led_softblink.o
+ .debug_macro   0x0000000000000000      0x3a0 _build/led_softblink.o
+ .debug_macro   0x0000000000000000    0x10245 _build/led_softblink.o
+ .debug_macro   0x0000000000000000     0x12c7 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x7c _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x1c _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x10 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x22 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x3a _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x10 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x40 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x6c _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x16 _build/led_softblink.o
+ .debug_macro   0x0000000000000000      0x182 _build/led_softblink.o
+ .debug_macro   0x0000000000000000      0x11e _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x52 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x67 _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0xbb _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x2b _build/led_softblink.o
+ .debug_macro   0x0000000000000000       0x41 _build/led_softblink.o
+ .debug_macro   0x0000000000000000      0x14b _build/led_softblink.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/low_power_pwm.o
+ .text          0x0000000000000000        0x0 _build/low_power_pwm.o
+ .data          0x0000000000000000        0x0 _build/low_power_pwm.o
+ .bss           0x0000000000000000        0x0 _build/low_power_pwm.o
+ .text.low_power_pwm_stop
+                0x0000000000000000       0x34 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000      0x910 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x22 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x46 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x8d _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x35 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x9c _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000      0x16d _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x4a _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x52 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x16 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x43 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000      0x187 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000      0x330 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x10 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x35 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x22 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0xfd _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x22 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000      0x1df _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x1c _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x10 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x22 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x3a _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x10 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x40 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x6c _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x16 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000      0x182 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x1c _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x2d _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x3b _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x50 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000      0xe66 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000      0x3a0 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000    0x10245 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000     0x12c7 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x7c _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x1c _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x8e _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x70 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000      0x11e _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x52 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x67 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0xbb _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x2b _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x41 _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000      0x14b _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x1c _build/low_power_pwm.o
+ .debug_macro   0x0000000000000000       0x10 _build/low_power_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_assert.o
+ .text          0x0000000000000000        0x0 _build/nrf_assert.o
+ .data          0x0000000000000000        0x0 _build/nrf_assert.o
+ .bss           0x0000000000000000        0x0 _build/nrf_assert.o
+ .debug_info    0x0000000000000000      0x8d9 _build/nrf_assert.o
+ .debug_abbrev  0x0000000000000000      0x18c _build/nrf_assert.o
+ .debug_aranges
+                0x0000000000000000       0x18 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000      0x283 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000      0x910 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x87 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x44 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0xfd _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000      0x1df _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x1c _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x2d _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x3b _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x50 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000      0xe66 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000      0x3a0 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000    0x10245 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000     0x12c7 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x7c _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x1c _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x4c _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x35 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x9c _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x97 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000      0x330 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0xf6 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x10 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x52 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x43 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000      0x187 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x3a _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x10 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x40 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x6c _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000      0x182 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x8e _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x70 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000      0x11e _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x52 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x67 _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0xbb _build/nrf_assert.o
+ .debug_macro   0x0000000000000000       0x2b _build/nrf_assert.o
+ .debug_line    0x0000000000000000      0x4f0 _build/nrf_assert.o
+ .debug_str     0x0000000000000000    0x71777 _build/nrf_assert.o
+ .comment       0x0000000000000000       0x22 _build/nrf_assert.o
+ .ARM.attributes
+                0x0000000000000000       0x39 _build/nrf_assert.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_delay.o
+ .text          0x0000000000000000        0x0 _build/nrf_delay.o
+ .data          0x0000000000000000        0x0 _build/nrf_delay.o
+ .bss           0x0000000000000000        0x0 _build/nrf_delay.o
+ .text.nrf_delay_ms
+                0x0000000000000000       0x98 _build/nrf_delay.o
+ .debug_info    0x0000000000000000      0x93e _build/nrf_delay.o
+ .debug_abbrev  0x0000000000000000      0x20c _build/nrf_delay.o
+ .debug_loc     0x0000000000000000       0x37 _build/nrf_delay.o
+ .debug_aranges
+                0x0000000000000000       0x20 _build/nrf_delay.o
+ .debug_ranges  0x0000000000000000       0x10 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000      0x213 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000      0x910 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x46 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x8d _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x35 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x9c _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x4a _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x97 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000      0x330 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0xf6 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x10 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x52 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x43 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000      0x187 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x3a _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x10 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x40 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x6c _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000      0x182 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x28 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x1c _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x2d _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0xfd _build/nrf_delay.o
+ .debug_macro   0x0000000000000000      0x1df _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x35 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x50 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000      0xe66 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000      0x3a0 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000    0x10245 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000     0x12c7 _build/nrf_delay.o
+ .debug_macro   0x0000000000000000       0x7c _build/nrf_delay.o
+ .debug_line    0x0000000000000000      0x43f _build/nrf_delay.o
+ .debug_str     0x0000000000000000    0x700cf _build/nrf_delay.o
+ .comment       0x0000000000000000       0x22 _build/nrf_delay.o
+ .debug_frame   0x0000000000000000       0x28 _build/nrf_delay.o
+ .ARM.attributes
+                0x0000000000000000       0x39 _build/nrf_delay.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_clock.o
+ .text          0x0000000000000000        0x0 _build/nrf_drv_clock.o
+ .data          0x0000000000000000        0x0 _build/nrf_drv_clock.o
+ .bss           0x0000000000000000        0x0 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_uninit
+                0x0000000000000000       0x58 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_lfclk_release
+                0x0000000000000000       0x3c _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_lfclk_is_running
+                0x0000000000000000       0x10 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_hfclk_request
+                0x0000000000000000       0x58 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_hfclk_release
+                0x0000000000000000       0x44 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_hfclk_is_running
+                0x0000000000000000       0x18 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_calibration_start
+                0x0000000000000000        0x4 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_calibration_abort
+                0x0000000000000000        0x4 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_is_calibrating
+                0x0000000000000000        0x4 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000      0x910 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x87 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x44 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0xfd _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000      0x1df _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x8e _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x70 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x1c _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x2d _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x3b _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x50 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000      0xe66 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000      0x3a0 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000    0x10245 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000     0x12c7 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x7c _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x1c _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x4c _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x35 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x9c _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x97 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000      0x330 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0xf6 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x10 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x52 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x43 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000      0x187 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x3a _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x10 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x40 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x6c _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000      0x182 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000      0x11e _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x52 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x67 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0xbb _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x2b _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x10 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000      0x14b _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x10 _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000000000       0x60 _build/nrf_drv_clock.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_drv_common.o
+ .text          0x0000000000000000        0x0 _build/nrf_drv_common.o
+ .data          0x0000000000000000        0x0 _build/nrf_drv_common.o
+ .bss           0x0000000000000000        0x0 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000      0x910 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000      0x16d _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x87 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x44 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0xfd _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000      0x1df _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x1c _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x2d _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x3b _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x50 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000      0xe66 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000      0x3a0 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000    0x10245 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000     0x12c7 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x7c _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x1c _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x8e _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x70 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000      0x14b _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x4c _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x35 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x9c _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x35 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000      0x330 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x10 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x52 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x43 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000      0x187 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x3a _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x10 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x40 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x6c _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000      0x182 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000      0x11e _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x52 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x67 _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0xbb _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x2b _build/nrf_drv_common.o
+ .debug_macro   0x0000000000000000       0x60 _build/nrf_drv_common.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_nvic.o
+ .text          0x0000000000000000        0x0 _build/nrf_nvic.o
+ .data          0x0000000000000000        0x0 _build/nrf_nvic.o
+ .bss           0x0000000000000000        0x0 _build/nrf_nvic.o
+ .text.sd_nvic_EnableIRQ
+                0x0000000000000000       0x18 _build/nrf_nvic.o
+ .text.sd_nvic_DisableIRQ
+                0x0000000000000000       0x1c _build/nrf_nvic.o
+ .text.sd_nvic_GetPendingIRQ
+                0x0000000000000000       0x28 _build/nrf_nvic.o
+ .text.sd_nvic_SetPendingIRQ
+                0x0000000000000000       0x1c _build/nrf_nvic.o
+ .text.sd_nvic_ClearPendingIRQ
+                0x0000000000000000       0x1c _build/nrf_nvic.o
+ .text.sd_nvic_SetPriority
+                0x0000000000000000       0x30 _build/nrf_nvic.o
+ .text.sd_nvic_GetPriority
+                0x0000000000000000       0x34 _build/nrf_nvic.o
+ .text.sd_nvic_SystemReset
+                0x0000000000000000       0x24 _build/nrf_nvic.o
+ .text.sd_nvic_critical_region_enter
+                0x0000000000000000       0x1c _build/nrf_nvic.o
+ .text.sd_nvic_critical_region_exit
+                0x0000000000000000       0x1c _build/nrf_nvic.o
+ .bss.m_in_critical_region
+                0x0000000000000000        0x1 _build/nrf_nvic.o
+ .debug_info    0x0000000000000000     0x10c2 _build/nrf_nvic.o
+ .debug_abbrev  0x0000000000000000      0x2c0 _build/nrf_nvic.o
+ .debug_loc     0x0000000000000000      0x310 _build/nrf_nvic.o
+ .debug_aranges
+                0x0000000000000000       0x68 _build/nrf_nvic.o
+ .debug_ranges  0x0000000000000000       0x90 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000      0x1ae _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000      0x910 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x46 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x8d _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x35 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x9c _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000      0x10e _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x86 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x4a _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x52 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x43 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000      0x187 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000      0x330 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x29 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0xfd _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000      0x1df _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x1c _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x2d _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x3b _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x50 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000      0xe66 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000      0x3a0 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000    0x10245 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000     0x12c7 _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x7c _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x1c _build/nrf_nvic.o
+ .debug_macro   0x0000000000000000       0x8e _build/nrf_nvic.o
+ .debug_line    0x0000000000000000      0x52a _build/nrf_nvic.o
+ .debug_str     0x0000000000000000    0x6fbac _build/nrf_nvic.o
+ .comment       0x0000000000000000       0x22 _build/nrf_nvic.o
+ .debug_frame   0x0000000000000000       0xb0 _build/nrf_nvic.o
+ .ARM.attributes
+                0x0000000000000000       0x39 _build/nrf_nvic.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .group         0x0000000000000000        0x8 _build/nrf_soc.o
+ .text          0x0000000000000000        0x0 _build/nrf_soc.o
+ .data          0x0000000000000000        0x0 _build/nrf_soc.o
+ .bss           0x0000000000000000        0x0 _build/nrf_soc.o
+ .text.sd_app_evt_wait
+                0x0000000000000000        0x8 _build/nrf_soc.o
+ .debug_info    0x0000000000000000      0x904 _build/nrf_soc.o
+ .debug_abbrev  0x0000000000000000      0x1c8 _build/nrf_soc.o
+ .debug_aranges
+                0x0000000000000000       0x20 _build/nrf_soc.o
+ .debug_ranges  0x0000000000000000       0x10 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000      0x1ae _build/nrf_soc.o
+ .debug_macro   0x0000000000000000      0x910 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x46 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x8d _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x35 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x9c _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000      0x10e _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x86 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x4a _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x52 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x43 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000      0x187 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000      0x330 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x29 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0xfd _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000      0x1df _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x1c _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x2d _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x3b _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x50 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000      0xe66 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000      0x3a0 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000    0x10245 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000     0x12c7 _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x7c _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x1c _build/nrf_soc.o
+ .debug_macro   0x0000000000000000       0x8e _build/nrf_soc.o
+ .debug_line    0x0000000000000000      0x3f2 _build/nrf_soc.o
+ .debug_str     0x0000000000000000    0x6f659 _build/nrf_soc.o
+ .comment       0x0000000000000000       0x22 _build/nrf_soc.o
+ .debug_frame   0x0000000000000000       0x20 _build/nrf_soc.o
+ .ARM.attributes
+                0x0000000000000000       0x39 _build/nrf_soc.o
+ .data          0x0000000000000000        0x0 _build/gcc_startup_nrf52.o
+ .bss           0x0000000000000000        0x0 _build/gcc_startup_nrf52.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000080000 xr
+RAM              0x0000000020000000 0x0000000000010000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+
+.text           0x0000000000000000     0x1a78
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000      0x400 _build/gcc_startup_nrf52.o
+                0x0000000000000000                __isr_vector
+ *(.text*)
+ .text          0x0000000000000400       0x6c /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtbegin.o
+ .text          0x000000000000046c       0x68 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+                0x000000000000046c                _mainCRTStartup
+                0x000000000000046c                _start
+ .text          0x00000000000004d4        0xc /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o)
+                0x00000000000004d4                atexit
+ .text          0x00000000000004e0       0x28 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+                0x00000000000004e0                exit
+ .text          0x0000000000000508       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fini.o)
+                0x0000000000000508                __libc_fini_array
+ .text          0x000000000000053c       0x50 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+                0x000000000000053c                __libc_init_array
+ .text          0x000000000000058c       0x9c /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+                0x000000000000058c                memset
+ .text          0x0000000000000628       0xd0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o)
+                0x0000000000000628                __register_exitproc
+ .text          0x00000000000006f8       0xf4 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+                0x00000000000006f8                __call_exitprocs
+ .text          0x00000000000007ec        0x4 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+                0x00000000000007ec                _exit
+ .text.SystemInit
+                0x00000000000007f0      0x2b0 _build/system_nrf52.o
+                0x00000000000007f0                SystemInit
+ .text.startup.main
+                0x0000000000000aa0       0x5c _build/main.o
+                0x0000000000000aa0                main
+ .text.app_error_handler_bare
+                0x0000000000000afc       0x20 _build/app_error.o
+                0x0000000000000afc                app_error_handler_bare
+ .text.app_error_fault_handler
+                0x0000000000000b1c       0x24 _build/app_error_weak.o
+                0x0000000000000b1c                app_error_fault_handler
+ .text.rtc2_stop
+                0x0000000000000b40      0x134 _build/app_timer.o
+ .text.RTC2_IRQHandler
+                0x0000000000000c74       0xc4 _build/app_timer.o
+                0x0000000000000c74                RTC2_IRQHandler
+ .text.SWI0_EGU0_IRQHandler
+                0x0000000000000d38      0x4fc _build/app_timer.o
+                0x0000000000000d38                SWI0_EGU0_IRQHandler
+ .text.app_timer_init
+                0x0000000000001234       0xc0 _build/app_timer.o
+                0x0000000000001234                app_timer_init
+ .text.app_timer_create
+                0x00000000000012f4       0x24 _build/app_timer.o
+                0x00000000000012f4                app_timer_create
+ .text.app_timer_start
+                0x0000000000001318       0xd4 _build/app_timer.o
+                0x0000000000001318                app_timer_start
+ .text.app_util_critical_region_enter
+                0x00000000000013ec       0x10 _build/app_util_platform.o
+                0x00000000000013ec                app_util_critical_region_enter
+ .text.app_util_critical_region_exit
+                0x00000000000013fc       0x14 _build/app_util_platform.o
+                0x00000000000013fc                app_util_critical_region_exit
+ .text.led_softblink_on_timeout
+                0x0000000000001410       0x84 _build/led_softblink.o
+ .text.led_softblink_init
+                0x0000000000001494       0x90 _build/led_softblink.o
+                0x0000000000001494                led_softblink_init
+ .text.led_softblink_start
+                0x0000000000001524        0xc _build/led_softblink.o
+                0x0000000000001524                led_softblink_start
+ .text.pwm_timeout_handler
+                0x0000000000001530       0xec _build/low_power_pwm.o
+ .text.low_power_pwm_init
+                0x000000000000161c       0x70 _build/low_power_pwm.o
+                0x000000000000161c                low_power_pwm_init
+ .text.low_power_pwm_start
+                0x000000000000168c       0xdc _build/low_power_pwm.o
+                0x000000000000168c                low_power_pwm_start
+ .text.low_power_pwm_duty_set
+                0x0000000000001768       0x10 _build/low_power_pwm.o
+                0x0000000000001768                low_power_pwm_duty_set
+ .text.nrf_drv_clock_init
+                0x0000000000001778       0x30 _build/nrf_drv_clock.o
+                0x0000000000001778                nrf_drv_clock_init
+ .text.nrf_drv_clock_lfclk_request
+                0x00000000000017a8       0x60 _build/nrf_drv_clock.o
+                0x00000000000017a8                nrf_drv_clock_lfclk_request
+ .text.POWER_CLOCK_IRQHandler
+                0x0000000000001808       0x78 _build/nrf_drv_clock.o
+                0x0000000000001808                POWER_CLOCK_IRQHandler
+ .text.nrf_drv_common_irq_enable
+                0x0000000000001880       0x50 _build/nrf_drv_common.o
+                0x0000000000001880                nrf_drv_common_irq_enable
+ .text          0x00000000000018d0       0x3c _build/gcc_startup_nrf52.o
+                0x00000000000018d0                Reset_Handler
+                0x00000000000018f8                NMI_Handler
+                0x00000000000018fa                HardFault_Handler
+                0x00000000000018fc                MemoryManagement_Handler
+                0x00000000000018fe                BusFault_Handler
+                0x0000000000001900                UsageFault_Handler
+                0x0000000000001902                SVC_Handler
+                0x0000000000001904                DebugMonitor_Handler
+                0x0000000000001906                PendSV_Handler
+                0x0000000000001908                SysTick_Handler
+                0x000000000000190a                TIMER2_IRQHandler
+                0x000000000000190a                RTC0_IRQHandler
+                0x000000000000190a                SWI2_EGU2_IRQHandler
+                0x000000000000190a                GPIOTE_IRQHandler
+                0x000000000000190a                PWM1_IRQHandler
+                0x000000000000190a                RADIO_IRQHandler
+                0x000000000000190a                PDM_IRQHandler
+                0x000000000000190a                TEMP_IRQHandler
+                0x000000000000190a                QDEC_IRQHandler
+                0x000000000000190a                TIMER3_IRQHandler
+                0x000000000000190a                FPU_IRQHandler
+                0x000000000000190a                SPIM0_SPIS0_TWIM0_TWIS0_SPI0_TWI0_IRQHandler
+                0x000000000000190a                UARTE0_UART0_IRQHandler
+                0x000000000000190a                TIMER4_IRQHandler
+                0x000000000000190a                I2S_IRQHandler
+                0x000000000000190a                SWI4_EGU4_IRQHandler
+                0x000000000000190a                TIMER0_IRQHandler
+                0x000000000000190a                TIMER1_IRQHandler
+                0x000000000000190a                PWM2_IRQHandler
+                0x000000000000190a                ECB_IRQHandler
+                0x000000000000190a                SPIM1_SPIS1_TWIM1_TWIS1_SPI1_TWI1_IRQHandler
+                0x000000000000190a                Default_Handler
+                0x000000000000190a                SAADC_IRQHandler
+                0x000000000000190a                CCM_AAR_IRQHandler
+                0x000000000000190a                WDT_IRQHandler
+                0x000000000000190a                SWI5_EGU5_IRQHandler
+                0x000000000000190a                RNG_IRQHandler
+                0x000000000000190a                PWM0_IRQHandler
+                0x000000000000190a                SWI3_EGU3_IRQHandler
+                0x000000000000190a                RTC1_IRQHandler
+                0x000000000000190a                SWI1_EGU1_IRQHandler
+                0x000000000000190a                SPIM2_SPIS2_SPI2_IRQHandler
+                0x000000000000190a                NFCT_IRQHandler
+                0x000000000000190a                MWU_IRQHandler
+                0x000000000000190a                COMP_LPCOMP_IRQHandler
+ .text          0x000000000000190c      0x134 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy.o)
+                0x000000000000190c                memcpy
+ *(.init)
+ .init          0x0000000000001a40        0x4 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crti.o
+                0x0000000000001a40                _init
+ .init          0x0000000000001a44        0x8 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtn.o
+ *(.fini)
+ .fini          0x0000000000001a4c        0x4 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crti.o
+                0x0000000000001a4c                _fini
+ .fini          0x0000000000001a50        0x8 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x0000000000001a58        0x4 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+                0x0000000000001a58                _global_impure_ptr
+ .rodata.str1.4
+                0x0000000000001a5c        0x4 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+                                          0x2 (size before relaxing)
+ .rodata        0x0000000000001a60       0x10 _build/main.o
+ .rodata.led_softblink_timer.8425
+                0x0000000000001a70        0x4 _build/led_softblink.o
+ *(.eh_frame*)
+ .eh_frame      0x0000000000001a74        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtbegin.o
+ .eh_frame      0x0000000000001a74        0x4 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtend.o
+
+.glue_7         0x0000000000001a78        0x0
+ .glue_7        0x0000000000001a78        0x0 linker stubs
+
+.glue_7t        0x0000000000001a78        0x0
+ .glue_7t       0x0000000000001a78        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000001a78        0x0
+ .vfp11_veneer  0x0000000000001a78        0x0 linker stubs
+
+.v4_bx          0x0000000000001a78        0x0
+ .v4_bx         0x0000000000001a78        0x0 linker stubs
+
+.iplt           0x0000000000001a78        0x0
+ .iplt          0x0000000000001a78        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000000001a78                __exidx_start = .
+
+.ARM.exidx      0x0000000000001a78        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000001a78        0x8 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+                0x0000000000001a80                __exidx_end = .
+                0x0000000000001a80                __etext = .
+
+.rel.dyn        0x0000000000001a80        0x0
+ .rel.iplt      0x0000000000001a80        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtbegin.o
+
+.data           0x0000000020000000       0x74 load address 0x0000000000001a80
+                0x0000000020000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x0000000020000000       0x64 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+                0x0000000020000000                _impure_ptr
+ .data.SystemCoreClock
+                0x0000000020000064        0x4 _build/system_nrf52.o
+                0x0000000020000064                SystemCoreClock
+                0x0000000020000068                . = ALIGN (0x4)
+                0x0000000020000068                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0000000020000068                PROVIDE (__preinit_array_end, .)
+                0x0000000020000068                . = ALIGN (0x4)
+                0x0000000020000068                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000000020000068        0x4 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtbegin.o
+                0x000000002000006c                PROVIDE (__init_array_end, .)
+                0x000000002000006c                . = ALIGN (0x4)
+                0x000000002000006c                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x000000002000006c        0x4 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtbegin.o
+                0x0000000020000070                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+ .jcr           0x0000000020000070        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtbegin.o
+ .jcr           0x0000000020000070        0x4 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtend.o
+                0x0000000020000074                . = ALIGN (0x4)
+                0x0000000020000074                __data_end__ = .
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a
+LOAD _build/system_nrf52.o
+LOAD _build/main.o
+LOAD _build/app_error.o
+LOAD _build/app_error_weak.o
+LOAD _build/app_timer.o
+LOAD _build/app_util_platform.o
+LOAD _build/led_softblink.o
+LOAD _build/low_power_pwm.o
+LOAD _build/nrf_assert.o
+LOAD _build/nrf_delay.o
+LOAD _build/nrf_drv_clock.o
+LOAD _build/nrf_drv_common.o
+LOAD _build/nrf_nvic.o
+LOAD _build/nrf_soc.o
+LOAD _build/gcc_startup_nrf52.o
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtn.o
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a
+END GROUP
+
+.igot.plt       0x0000000020000074        0x0 load address 0x0000000000001af4
+ .igot.plt      0x0000000020000074        0x0 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtbegin.o
+
+.fs_data        0x0000000020000074        0x0
+                [!provide]                        PROVIDE (__start_fs_data, .)
+ *(.fs_data)
+                [!provide]                        PROVIDE (__stop_fs_data, .)
+
+.bss            0x0000000020000074      0x2d4 load address 0x0000000000001af4
+                0x0000000020000074                . = ALIGN (0x4)
+                0x0000000020000074                __bss_start__ = .
+ *(.bss*)
+ .bss           0x0000000020000074       0x1c /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtbegin.o
+ .bss           0x0000000020000090       0x8c /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o)
+ .bss           0x000000002000011c        0x4 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+                0x000000002000011c                _global_atexit
+ .bss.APP_TIMER_BUF.8424
+                0x0000000020000120      0x180 _build/main.o
+ .bss.m_evt_schedule_func
+                0x00000000200002a0        0x4 _build/app_timer.o
+ .bss.m_rtc2_reset
+                0x00000000200002a4        0x1 _build/app_timer.o
+ .bss.m_rtc2_running
+                0x00000000200002a5        0x1 _build/app_timer.o
+ *fill*         0x00000000200002a6        0x2 
+ .bss.m_ticks_elapsed
+                0x00000000200002a8        0x8 _build/app_timer.o
+ .bss.m_ticks_elapsed_q_read_ind
+                0x00000000200002b0        0x1 _build/app_timer.o
+ .bss.m_ticks_elapsed_q_write_ind
+                0x00000000200002b1        0x1 _build/app_timer.o
+ *fill*         0x00000000200002b2        0x2 
+ .bss.m_ticks_latest
+                0x00000000200002b4        0x4 _build/app_timer.o
+ .bss.m_user_array_size
+                0x00000000200002b8        0x1 _build/app_timer.o
+ *fill*         0x00000000200002b9        0x3 
+ .bss.mp_timer_id_head
+                0x00000000200002bc        0x4 _build/app_timer.o
+ .bss.mp_users  0x00000000200002c0        0x4 _build/app_timer.o
+ .bss.m_in_critical_region
+                0x00000000200002c4        0x4 _build/app_util_platform.o
+ .bss.led_softblink_timer_data.8424
+                0x00000000200002c8       0x20 _build/led_softblink.o
+ .bss.m_led_sb  0x00000000200002e8       0x48 _build/led_softblink.o
+ .bss.pause_ticks.8417
+                0x0000000020000330        0x4 _build/led_softblink.o
+ .bss.m_clock_cb
+                0x0000000020000334       0x14 _build/nrf_drv_clock.o
+ *(COMMON)
+                0x0000000020000348                . = ALIGN (0x4)
+                0x0000000020000348                __bss_end__ = .
+
+.heap           0x0000000020000348     0x2000
+                0x0000000020000348                __end__ = .
+                [!provide]                        PROVIDE (end, .)
+ *(.heap*)
+ .heap          0x0000000020000348     0x2000 _build/gcc_startup_nrf52.o
+                0x0000000020000348                __HeapBase
+                0x0000000020002348                __HeapLimit = .
+
+.stack_dummy    0x0000000020000348     0x2000
+ *(.stack*)
+ .stack         0x0000000020000348     0x2000 _build/gcc_startup_nrf52.o
+                0x0000000020010000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x000000002000e000                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x0000000020010000                PROVIDE (__stack, __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ .ARM.attributes
+                0x0000000000000000       0x22 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtbegin.o
+ .ARM.attributes
+                0x0000000000000056       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.attributes
+                0x0000000000000076       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000000000aa       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000000000de       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000112       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000146       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x000000000000017a       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000001ae       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000000001e2       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000216       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000000000000024a       0x39 _build/system_nrf52.o
+ .ARM.attributes
+                0x0000000000000283       0x39 _build/main.o
+ .ARM.attributes
+                0x00000000000002bc       0x39 _build/app_error.o
+ .ARM.attributes
+                0x00000000000002f5       0x39 _build/app_error_weak.o
+ .ARM.attributes
+                0x000000000000032e       0x39 _build/app_timer.o
+ .ARM.attributes
+                0x0000000000000367       0x39 _build/app_util_platform.o
+ .ARM.attributes
+                0x00000000000003a0       0x39 _build/led_softblink.o
+ .ARM.attributes
+                0x00000000000003d9       0x39 _build/low_power_pwm.o
+ .ARM.attributes
+                0x0000000000000412       0x39 _build/nrf_drv_clock.o
+ .ARM.attributes
+                0x000000000000044b       0x39 _build/nrf_drv_common.o
+ .ARM.attributes
+                0x0000000000000484       0x1c _build/gcc_startup_nrf52.o
+ .ARM.attributes
+                0x00000000000004a0       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000000000004c0       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtend.o
+ .ARM.attributes
+                0x00000000000004f4       0x22 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtn.o
+
+.comment        0x0000000000000000       0x42
+ .comment       0x0000000000000000       0x21 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtbegin.o
+                                         0x22 (size before relaxing)
+ .comment       0x0000000000000021       0x21 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o)
+                                         0x22 (size before relaxing)
+ .comment       0x0000000000000042       0x22 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .comment       0x0000000000000042       0x22 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fini.o)
+ .comment       0x0000000000000042       0x22 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ .comment       0x0000000000000042       0x22 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .comment       0x0000000000000042       0x22 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .comment       0x0000000000000042       0x22 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o)
+ .comment       0x0000000000000042       0x22 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000042       0x22 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .comment       0x0000000000000042       0x22 _build/system_nrf52.o
+ .comment       0x0000000000000042       0x22 _build/main.o
+ .comment       0x0000000000000042       0x22 _build/app_error.o
+ .comment       0x0000000000000042       0x22 _build/app_error_weak.o
+ .comment       0x0000000000000042       0x22 _build/app_timer.o
+ .comment       0x0000000000000042       0x22 _build/app_util_platform.o
+ .comment       0x0000000000000042       0x22 _build/led_softblink.o
+ .comment       0x0000000000000042       0x22 _build/low_power_pwm.o
+ .comment       0x0000000000000042       0x22 _build/nrf_drv_clock.o
+ .comment       0x0000000000000042       0x22 _build/nrf_drv_common.o
+ .comment       0x0000000000000042       0x22 /usr/lib/gcc/arm-none-eabi/6.2.0/armv7e-m/fpu/crtend.o
+
+.debug_line     0x0000000000000000     0x56d6
+ .debug_line    0x0000000000000000       0x7e /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .debug_line    0x000000000000007e      0x141 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o)
+ .debug_line    0x00000000000001bf      0x145 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .debug_line    0x0000000000000304       0x9f /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fini.o)
+ .debug_line    0x00000000000003a3       0xe1 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ .debug_line    0x0000000000000484       0xb8 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .debug_line    0x000000000000053c      0x166 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .debug_line    0x00000000000006a2      0x17c /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o)
+ .debug_line    0x000000000000081e      0x1a9 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_line    0x00000000000009c7       0x5b /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .debug_line    0x0000000000000a22      0x403 _build/system_nrf52.o
+ .debug_line    0x0000000000000e25      0x93c _build/main.o
+ .debug_line    0x0000000000001761      0x544 _build/app_error.o
+ .debug_line    0x0000000000001ca5      0x50b _build/app_error_weak.o
+ .debug_line    0x00000000000021b0      0xb79 _build/app_timer.o
+ .debug_line    0x0000000000002d29      0x56e _build/app_util_platform.o
+ .debug_line    0x0000000000003297      0x8d5 _build/led_softblink.o
+ .debug_line    0x0000000000003b6c      0xa73 _build/low_power_pwm.o
+ .debug_line    0x00000000000045df      0x9a0 _build/nrf_drv_clock.o
+ .debug_line    0x0000000000004f7f      0x69c _build/nrf_drv_common.o
+ .debug_line    0x000000000000561b       0xbb /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy.o)
+
+.debug_info     0x0000000000000000     0xe2c3
+ .debug_info    0x0000000000000000       0xa4 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .debug_info    0x00000000000000a4      0x902 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o)
+ .debug_info    0x00000000000009a6      0x94e /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .debug_info    0x00000000000012f4       0xfa /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fini.o)
+ .debug_info    0x00000000000013ee      0x8a0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ .debug_info    0x0000000000001c8e      0x110 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .debug_info    0x0000000000001d9e      0x916 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .debug_info    0x00000000000026b4      0x9a0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000003054      0x98a /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_info    0x00000000000039de       0x9a /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .debug_info    0x0000000000003a78      0xdb6 _build/system_nrf52.o
+ .debug_info    0x000000000000482e      0xb6a _build/main.o
+ .debug_info    0x0000000000005398      0xb5f _build/app_error.o
+ .debug_info    0x0000000000005ef7      0xb3a _build/app_error_weak.o
+ .debug_info    0x0000000000006a31     0x250a _build/app_timer.o
+ .debug_info    0x0000000000008f3b      0x9f4 _build/app_util_platform.o
+ .debug_info    0x000000000000992f      0xe98 _build/led_softblink.o
+ .debug_info    0x000000000000a7c7     0x13bc _build/low_power_pwm.o
+ .debug_info    0x000000000000bb83     0x18a2 _build/nrf_drv_clock.o
+ .debug_info    0x000000000000d425      0xdd7 _build/nrf_drv_common.o
+ .debug_info    0x000000000000e1fc       0xc7 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy.o)
+
+.debug_abbrev   0x0000000000000000     0x2949
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .debug_abbrev  0x0000000000000014      0x1c0 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o)
+ .debug_abbrev  0x00000000000001d4      0x1c4 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000398       0xbd /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fini.o)
+ .debug_abbrev  0x0000000000000455      0x153 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ .debug_abbrev  0x00000000000005a8       0xba /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000000662      0x197 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .debug_abbrev  0x00000000000007f9      0x227 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000000a20      0x210 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x0000000000000c30       0x61 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .debug_abbrev  0x0000000000000c91      0x1e0 _build/system_nrf52.o
+ .debug_abbrev  0x0000000000000e71      0x275 _build/main.o
+ .debug_abbrev  0x00000000000010e6      0x22c _build/app_error.o
+ .debug_abbrev  0x0000000000001312      0x213 _build/app_error_weak.o
+ .debug_abbrev  0x0000000000001525      0x499 _build/app_timer.o
+ .debug_abbrev  0x00000000000019be      0x228 _build/app_util_platform.o
+ .debug_abbrev  0x0000000000001be6      0x2ea _build/led_softblink.o
+ .debug_abbrev  0x0000000000001ed0      0x36a _build/low_power_pwm.o
+ .debug_abbrev  0x000000000000223a      0x47f _build/nrf_drv_clock.o
+ .debug_abbrev  0x00000000000026b9      0x27c _build/nrf_drv_common.o
+ .debug_abbrev  0x0000000000002935       0x14 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy.o)
+
+.debug_aranges  0x0000000000000000      0x3b8
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .debug_aranges
+                0x0000000000000020       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000080       0x18 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000098       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .debug_aranges
+                0x00000000000000b8       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000000000000d8       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x00000000000000f8       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000118       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .debug_aranges
+                0x0000000000000138       0x28 _build/system_nrf52.o
+ .debug_aranges
+                0x0000000000000160       0x20 _build/main.o
+ .debug_aranges
+                0x0000000000000180       0x30 _build/app_error.o
+ .debug_aranges
+                0x00000000000001b0       0x20 _build/app_error_weak.o
+ .debug_aranges
+                0x00000000000001d0       0x68 _build/app_timer.o
+ .debug_aranges
+                0x0000000000000238       0x38 _build/app_util_platform.o
+ .debug_aranges
+                0x0000000000000270       0x50 _build/led_softblink.o
+ .debug_aranges
+                0x00000000000002c0       0x40 _build/low_power_pwm.o
+ .debug_aranges
+                0x0000000000000300       0x78 _build/nrf_drv_clock.o
+ .debug_aranges
+                0x0000000000000378       0x20 _build/nrf_drv_common.o
+ .debug_aranges
+                0x0000000000000398       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy.o)
+
+.debug_loc      0x0000000000000000     0x22cf
+ .debug_loc     0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o)
+ .debug_loc     0x000000000000002c       0x1e /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .debug_loc     0x000000000000004a       0x5c /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fini.o)
+ .debug_loc     0x00000000000000a6       0xae /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .debug_loc     0x0000000000000154      0x1bd /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .debug_loc     0x0000000000000311      0x1e7 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o)
+ .debug_loc     0x00000000000004f8      0x173 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_loc     0x000000000000066b       0xac _build/main.o
+ .debug_loc     0x0000000000000717      0x145 _build/app_error.o
+ .debug_loc     0x000000000000085c       0x42 _build/app_error_weak.o
+ .debug_loc     0x000000000000089e      0xfc4 _build/app_timer.o
+ .debug_loc     0x0000000000001862       0xd1 _build/led_softblink.o
+ .debug_loc     0x0000000000001933      0x55e _build/low_power_pwm.o
+ .debug_loc     0x0000000000001e91      0x368 _build/nrf_drv_clock.o
+ .debug_loc     0x00000000000021f9       0xd6 _build/nrf_drv_common.o
+
+.debug_str      0x0000000000000000    0x753c4
+ .debug_str     0x0000000000000000      0x510 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o)
+                                        0x62a (size before relaxing)
+ .debug_str     0x0000000000000510       0x66 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+                                        0x62b (size before relaxing)
+ .debug_str     0x0000000000000576       0xc3 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fini.o)
+                                        0x206 (size before relaxing)
+ .debug_str     0x0000000000000639       0x97 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+                                        0x5df (size before relaxing)
+ .debug_str     0x00000000000006d0       0x8d /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+                                        0x230 (size before relaxing)
+ .debug_str     0x000000000000075d       0xa1 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+                                        0x5f7 (size before relaxing)
+ .debug_str     0x00000000000007fe       0x6f /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o)
+                                        0x672 (size before relaxing)
+ .debug_str     0x000000000000086d       0x4b /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+                                        0x622 (size before relaxing)
+ .debug_str     0x00000000000008b8       0xe4 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+                                        0x17a (size before relaxing)
+ .debug_str     0x000000000000099c    0x6bddd _build/system_nrf52.o
+                                      0x6c844 (size before relaxing)
+ .debug_str     0x000000000006c779     0x6959 _build/main.o
+                                      0x73198 (size before relaxing)
+ .debug_str     0x00000000000730d2      0x132 _build/app_error.o
+                                      0x7188e (size before relaxing)
+ .debug_str     0x0000000000073204       0x5e _build/app_error_weak.o
+                                      0x71808 (size before relaxing)
+ .debug_str     0x0000000000073262     0x1128 _build/app_timer.o
+                                      0x72fd7 (size before relaxing)
+ .debug_str     0x000000000007438a       0xe5 _build/app_util_platform.o
+                                      0x719b8 (size before relaxing)
+ .debug_str     0x000000000007446f      0x447 _build/led_softblink.o
+                                      0x72837 (size before relaxing)
+ .debug_str     0x00000000000748b6      0x326 _build/low_power_pwm.o
+                                      0x726ec (size before relaxing)
+ .debug_str     0x0000000000074bdc      0x786 _build/nrf_drv_clock.o
+                                      0x72b43 (size before relaxing)
+ .debug_str     0x0000000000075362       0x62 _build/nrf_drv_common.o
+                                      0x721c9 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x6d8
+ .debug_frame   0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000020       0x28 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000048       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-fini.o)
+ .debug_frame   0x000000000000007c       0x2c /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000000000a8       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000000000dc       0x34 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000110       0x40 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000150       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000170       0x48 _build/system_nrf52.o
+ .debug_frame   0x00000000000001b8       0x2c _build/main.o
+ .debug_frame   0x00000000000001e4       0x70 _build/app_error.o
+ .debug_frame   0x0000000000000254       0x20 _build/app_error_weak.o
+ .debug_frame   0x0000000000000274      0x168 _build/app_timer.o
+ .debug_frame   0x00000000000003dc       0x50 _build/app_util_platform.o
+ .debug_frame   0x000000000000042c       0xbc _build/led_softblink.o
+ .debug_frame   0x00000000000004e8       0x8c _build/low_power_pwm.o
+ .debug_frame   0x0000000000000574      0x138 _build/nrf_drv_clock.o
+ .debug_frame   0x00000000000006ac       0x2c _build/nrf_drv_common.o
+
+.debug_ranges   0x0000000000000000      0xec8
+ .debug_ranges  0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/6.2.0/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x0000000000000020       0xf0 _build/system_nrf52.o
+ .debug_ranges  0x0000000000000110       0xa0 _build/main.o
+ .debug_ranges  0x00000000000001b0       0x20 _build/app_error.o
+ .debug_ranges  0x00000000000001d0       0x10 _build/app_error_weak.o
+ .debug_ranges  0x00000000000001e0      0x620 _build/app_timer.o
+ .debug_ranges  0x0000000000000800       0x28 _build/app_util_platform.o
+ .debug_ranges  0x0000000000000828       0x58 _build/led_softblink.o
+ .debug_ranges  0x0000000000000880      0x3a8 _build/low_power_pwm.o
+ .debug_ranges  0x0000000000000c28      0x270 _build/nrf_drv_clock.o
+ .debug_ranges  0x0000000000000e98       0x30 _build/nrf_drv_common.o
+
+.debug_macro    0x0000000000000000    0x168da
+ .debug_macro   0x0000000000000000       0xf5 _build/system_nrf52.o
+ .debug_macro   0x00000000000000f5      0x910 _build/system_nrf52.o
+ .debug_macro   0x0000000000000a05       0x22 _build/system_nrf52.o
+ .debug_macro   0x0000000000000a27       0x87 _build/system_nrf52.o
+ .debug_macro   0x0000000000000aae       0x44 _build/system_nrf52.o
+ .debug_macro   0x0000000000000af2       0xfd _build/system_nrf52.o
+ .debug_macro   0x0000000000000bef       0x22 _build/system_nrf52.o
+ .debug_macro   0x0000000000000c11      0x1df _build/system_nrf52.o
+ .debug_macro   0x0000000000000df0       0x22 _build/system_nrf52.o
+ .debug_macro   0x0000000000000e12       0x1c _build/system_nrf52.o
+ .debug_macro   0x0000000000000e2e       0x2d _build/system_nrf52.o
+ .debug_macro   0x0000000000000e5b       0x3b _build/system_nrf52.o
+ .debug_macro   0x0000000000000e96       0x50 _build/system_nrf52.o
+ .debug_macro   0x0000000000000ee6      0xe66 _build/system_nrf52.o
+ .debug_macro   0x0000000000001d4c      0x3a0 _build/system_nrf52.o
+ .debug_macro   0x00000000000020ec    0x10245 _build/system_nrf52.o
+ .debug_macro   0x0000000000012331     0x12c7 _build/system_nrf52.o
+ .debug_macro   0x00000000000135f8       0x7c _build/system_nrf52.o
+ .debug_macro   0x0000000000013674       0x1c _build/system_nrf52.o
+ .debug_macro   0x0000000000013690      0x327 _build/main.o
+ .debug_macro   0x00000000000139b7       0x10 _build/main.o
+ .debug_macro   0x00000000000139c7      0x280 _build/main.o
+ .debug_macro   0x0000000000013c47       0x22 _build/main.o
+ .debug_macro   0x0000000000013c69       0x8e _build/main.o
+ .debug_macro   0x0000000000013cf7       0x70 _build/main.o
+ .debug_macro   0x0000000000013d67       0x34 _build/main.o
+ .debug_macro   0x0000000000013d9b       0x4c _build/main.o
+ .debug_macro   0x0000000000013de7       0x35 _build/main.o
+ .debug_macro   0x0000000000013e1c       0x9c _build/main.o
+ .debug_macro   0x0000000000013eb8       0x16 _build/main.o
+ .debug_macro   0x0000000000013ece       0x97 _build/main.o
+ .debug_macro   0x0000000000013f65      0x330 _build/main.o
+ .debug_macro   0x0000000000014295       0xf6 _build/main.o
+ .debug_macro   0x000000000001438b       0x10 _build/main.o
+ .debug_macro   0x000000000001439b       0x52 _build/main.o
+ .debug_macro   0x00000000000143ed       0x16 _build/main.o
+ .debug_macro   0x0000000000014403       0x43 _build/main.o
+ .debug_macro   0x0000000000014446      0x187 _build/main.o
+ .debug_macro   0x00000000000145cd       0x22 _build/main.o
+ .debug_macro   0x00000000000145ef       0x3a _build/main.o
+ .debug_macro   0x0000000000014629       0x10 _build/main.o
+ .debug_macro   0x0000000000014639       0x40 _build/main.o
+ .debug_macro   0x0000000000014679       0x6c _build/main.o
+ .debug_macro   0x00000000000146e5       0x16 _build/main.o
+ .debug_macro   0x00000000000146fb      0x182 _build/main.o
+ .debug_macro   0x000000000001487d      0x11e _build/main.o
+ .debug_macro   0x000000000001499b       0x52 _build/main.o
+ .debug_macro   0x00000000000149ed       0x67 _build/main.o
+ .debug_macro   0x0000000000014a54       0xbb _build/main.o
+ .debug_macro   0x0000000000014b0f       0x2b _build/main.o
+ .debug_macro   0x0000000000014b3a       0x47 _build/main.o
+ .debug_macro   0x0000000000014b81       0x10 _build/main.o
+ .debug_macro   0x0000000000014b91      0x14b _build/main.o
+ .debug_macro   0x0000000000014cdc       0x10 _build/main.o
+ .debug_macro   0x0000000000014cec       0x60 _build/main.o
+ .debug_macro   0x0000000000014d4c      0x279 _build/app_error.o
+ .debug_macro   0x0000000000014fc5       0x35 _build/app_error.o
+ .debug_macro   0x0000000000014ffa      0x273 _build/app_error_weak.o
+ .debug_macro   0x000000000001526d      0x373 _build/app_timer.o
+ .debug_macro   0x00000000000155e0       0x41 _build/app_timer.o
+ .debug_macro   0x0000000000015621       0x16 _build/app_timer.o
+ .debug_macro   0x0000000000015637       0x35 _build/app_timer.o
+ .debug_macro   0x000000000001566c       0x16 _build/app_timer.o
+ .debug_macro   0x0000000000015682       0x29 _build/app_timer.o
+ .debug_macro   0x00000000000156ab       0x16 _build/app_timer.o
+ .debug_macro   0x00000000000156c1       0x22 _build/app_timer.o
+ .debug_macro   0x00000000000156e3       0x37 _build/app_timer.o
+ .debug_macro   0x000000000001571a       0x16 _build/app_timer.o
+ .debug_macro   0x0000000000015730      0x28c _build/app_util_platform.o
+ .debug_macro   0x00000000000159bc       0x28 _build/app_util_platform.o
+ .debug_macro   0x00000000000159e4       0x6d _build/app_util_platform.o
+ .debug_macro   0x0000000000015a51      0x303 _build/led_softblink.o
+ .debug_macro   0x0000000000015d54       0x46 _build/led_softblink.o
+ .debug_macro   0x0000000000015d9a       0x8d _build/led_softblink.o
+ .debug_macro   0x0000000000015e27      0x16d _build/led_softblink.o
+ .debug_macro   0x0000000000015f94       0x4a _build/led_softblink.o
+ .debug_macro   0x0000000000015fde       0x10 _build/led_softblink.o
+ .debug_macro   0x0000000000015fee       0x1c _build/led_softblink.o
+ .debug_macro   0x000000000001600a       0x1c _build/led_softblink.o
+ .debug_macro   0x0000000000016026      0x2e7 _build/low_power_pwm.o
+ .debug_macro   0x000000000001630d      0x30b _build/nrf_drv_clock.o
+ .debug_macro   0x0000000000016618      0x2c2 _build/nrf_drv_common.o
